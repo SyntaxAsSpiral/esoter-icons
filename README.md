@@ -16,5 +16,5 @@ Cute esoteric icon-ready pngs, with eyes!!
 | **l-ajna** | **l-pentagram** | **leviathan** | **lotus** |
 | ![Mesoamerican](meso.png) | ![Sufi](sufi.png) | ![Triquetra](triquetra.png) | ![Tulpa](tulpa.png) |
 | **meso** | **sufi** | **triquetra** | **tulpa** |
-| ![Yantra](yantra.png) | ![Zodiac](zodiac.png) | | |
-| **yantra** | **zodiac** | | |
+| ![Yantra](yantra.png) | ![Zodiac](zodiac.png) | ![Rosicrucian](rosicrucian.png) | ![Numogram](numogram.png) |
+| **yantra** | **zodiac** | **rosicrucian** | **numogram** |
