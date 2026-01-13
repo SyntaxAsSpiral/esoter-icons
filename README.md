@@ -18,3 +18,19 @@ Cute esoteric icon-ready pngs, with eyes!!
 | **meso** | **sufi** | **triquetra** | **tulpa** |
 | ![Yantra](yantra.png) | ![Zodiac](zodiac.png) | ![Rosicrucian](rosicrucian.png) | ![Numogram](numogram.png) |
 | **yantra** | **zodiac** | **rosicrucian** | **numogram** |
+
+
+## Usage
+
+All icons available in multiple formats:
+- **PNG** - Original source files
+- **ICO** - Windows icons (256x256 and multi-size)
+- **SVG** - Scalable vector graphics
+
+Find converted files in the `icons/` folder.
+
+## License
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+**Attribution:** Zach Battin (Æmexsomnus) • [github.com/SyntaxAsSpiral/esotericons](https://github.com/SyntaxAsSpiral/esotericons)
