@@ -33,4 +33,4 @@ Find converted files in the `icons/` folder.
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Attribution:** Zach Battin (Æmexsomnus) • [github.com/SyntaxAsSpiral/esotericons](https://github.com/SyntaxAsSpiral/SyntaxAsSpiral)
+**Attribution:** Zach Battin (Æmexsomnus) • [github.com/SyntaxAsSpiral/](https://github.com/SyntaxAsSpiral/)
